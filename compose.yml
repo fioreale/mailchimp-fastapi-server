@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  mailchimp.server:
+    container_name: mailchimp.server
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile
+    ports:
+      - "8000:8000"
