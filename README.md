@@ -2,6 +2,10 @@
 
 A robust and efficient FastAPI server designed for synchronizing subscriptions with Mailchimp, this project stands as a testament to the seamless integration between FastAPI's asynchronous capabilities and Mailchimp's powerful subscription management features.
 
+[![Stars](https://img.shields.io/github/stars/fioreale/mailchimp-fastapi-server.svg)](https://github.com/fioreale/mailchimp-fastapi-server/stargazers)
+
+If you find this project helpful, please consider giving it a star. Thanks!
+
 ## Overview
 
 This project showcases a state-of-the-art implementation of a FastAPI server, specifically tailored to synchronize subscription data with Mailchimp. The primary goal of this project is to offer an easy-to-setup, well-documented, and straightforward API that bridges the gap between your application and Mailchimp's subscription management. The server is designed with scalability and ease of use in mind, making it an ideal solution for both small projects and large-scale applications.
